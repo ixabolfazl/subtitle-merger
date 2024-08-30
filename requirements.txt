@@ -1,0 +1,5 @@
+aeidon
+guessit
+ttkbootstrap
+chardet
+tkfontchooser
