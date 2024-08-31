@@ -25,7 +25,7 @@ Subtitle Merger is a Python application with a graphical user interface that all
 - Enhanced compatibility with VLC Media Player (recommended)
 
 ## Installation
-
+### Compile and Run:
 1. Clone this repository:
    ```bash
    git clone https://github.com/ixabolfazl/subtitle-merger.git
@@ -36,7 +36,10 @@ Subtitle Merger is a Python application with a graphical user interface that all
    ```bash
    pip install -r requirements.txt
    ```
-
+### Windows Portable:
+   1. Download latest version from Release section. (or click [Here](https://github.com/ixabolfazl/subtitle-merger/releases/download/v.1.0/subtitle-merger-windows.zip) to download)
+   2. Extract subtitle-merger-windows.zip file.
+   3. Run main.exe
 ## Usage
 
 1. Run the application:
